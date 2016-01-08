@@ -32,32 +32,33 @@
 
 1.  Yes.  With my condolences.
 
-1.  Apple News example
+1.  GET request to custom endpoint
 
-*  GET request to custom endpoint
+*  Apple News example
 
 ##  Syndicating, synchronizing, migrating?
 
-1.  Yes.
+1.  Yes.  Automate it.
 
-1.  Betta Beta Data Getta example (credit Zack)
+1.  POST request to create posts on publish hook
 
-*  POST request to create posts
+*  Betta Beta Data Getta example (ZT)
 
 ##  Need to POST data from external resource?
 
-1.  Liveblog example (credit Zack)
+1.  Yes.  Let's get creative!
 
-*  Yes.  Let's get creative!
+1.  POST request to create posts within custom post type
 
-*  POST request to create posts within custom post type
+*  Liveblog example (ZT)
 
 ##  Need SPA?
 
-1.  The future: Curator admin with REST API and React (credit Jake)
+1.  Yes.  Because #nodejs.
 
-1.  The future: Curator front end with REST API and React (credit Jake)
+1.  JavaScript loves JSON objects.
 
-*  Yes.  Because #nodejs
+*  The future: Curator admin with REST API and React (credit Jake)
 
-*  JavaScript loves JSON objects
+*  The future: Curator front end with REST API and React (credit Jake)
+
