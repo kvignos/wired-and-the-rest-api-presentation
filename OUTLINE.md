@@ -52,7 +52,7 @@
 
 1.  POST request to create posts within custom post type
 
-    *  Liveblog example (ZT)
+    *  Slack liveblog integration example (ZT)
 
 ##  Need SPA?  [wayfinder:  SPA]
 
