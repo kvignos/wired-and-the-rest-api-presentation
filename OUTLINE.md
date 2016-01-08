@@ -6,11 +6,9 @@
 
 1.2 Website graphic
 
-1.3 High level module overview
+1.3 Site tour
 
 1.3.1 Homepage, curator
-
-1.3.2 Homepage, latest news module
 
 1.4 Flowchart from mag
 
@@ -35,3 +33,9 @@
 2.4 Need to POST data from external resource?
 
 2.4.1 Liveblog example (credit Zack)
+
+2.5. Need SPA?
+
+2.5.1 The future: Curator admin with REST API and React (credit Jake)
+
+2.5.2 The future: Curator front end with REST API and React (credit Jake)
