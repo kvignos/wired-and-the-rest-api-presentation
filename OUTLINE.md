@@ -16,6 +16,10 @@
 
 1.  Flowchart:  Should I use the WP REST API? [not a comprehensive list!]
 
+##  Traditional PHP theme and in the Loop?
+
+1.  Nope.
+
 ##  Integrating with a third-party?
 
 1.  Outbrain example
