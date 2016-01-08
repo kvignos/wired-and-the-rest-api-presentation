@@ -24,9 +24,9 @@
 
 1.  Yes.  Elementary, my dear.
 
-1.  Outbrain example
+1.  GET request to /posts/ endpoint
 
-*  GET request to /posts/ endpoint
+*  Outbrain example
 
 ##  Downstream format is custom JSON?
 
@@ -58,7 +58,7 @@
 
 1.  JavaScript loves JSON objects.
 
-*  The future: Curator admin with REST API and React (credit Jake)
+*  The future: Curator admin with REST API and React (JS)
 
-*  The future: Curator front end with REST API and React (credit Jake)
+*  The future: Curator front end with REST API and React (JS)
 
