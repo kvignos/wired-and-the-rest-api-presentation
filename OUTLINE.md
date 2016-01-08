@@ -1,41 +1,39 @@
 # wired-and-the-rest-api-presentation
 
-1.0.  Intro - WIRED
+## Intro - WIRED
 
-1.1.  Around the office
+1.  Around the office
 
-1.2.  Website graphic
+1.  Website graphic
 
-1.3.  Site tour
+1.  Brief site tour: homepage, Curator
 
-1.3.1.  Homepage, curator
+1.  What is this Flowchart you speak of?
 
-1.4.  Flowchart from mag
+    *  Best-designed city: SF
 
-1.4.1.  Best-designed city: SF
+    *  Best-designed city: Manhattan
 
-1.4.2.  Best-designed city: Manhattan
+1.  Flowchart:  Should I use the WP REST API? [not a comprehensive list!]
 
-1.5.  Flowchart:  Should I use the WP REST API? [not a comprehensive list!]
+##  Integrating with a third-party?
 
-2.0.  Integrating with a third-party?
+1.  Outbrain example
 
-2.0.1.  Outbrain example
+##  Downstream format is custom JSON?
 
-3.0.  Downstream format is custom JSON?
+1.  Apple News example
 
-3.0.1.  Apple News example
+##  Syndicating, synchronizing, migrating?
 
-4.0.  Syndicating, synchronizing, migrating?
+1.  Betta Beta Data Getta example (credit Zack)
 
-4.0.1.  Betta Beta Data Getta example (credit Zack)
+##  Need to POST data from external resource?
 
-5.0.  Need to POST data from external resource?
+1.  Liveblog example (credit Zack)
 
-5.0.1.  Liveblog example (credit Zack)
+##  Need SPA?
 
-6.0.  Need SPA?
+1.  The future: Curator admin with REST API and React (credit Jake)
 
-6.0.1.  The future: Curator admin with REST API and React (credit Jake)
-
-6.0.2.  The future: Curator front end with REST API and React (credit Jake)
+1.  The future: Curator front end with REST API and React (credit Jake)
