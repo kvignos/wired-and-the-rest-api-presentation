@@ -1,6 +1,6 @@
 # wired-and-the-rest-api-presentation
 
-1.0.  Intro - WIRED
+1. Intro - WIRED
 
 1.1.  Around the office
 
