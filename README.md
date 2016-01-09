@@ -1,11 +1,11 @@
 # Should I use the WordPress REST API? Ask WIRED’s “Ask a Flowchart”
 
-[https://feelingrestful.com/news/the-wordpress-rest-api-in-context/](https://feelingrestful.com/news/the-wordpress-rest-api-in-context/)
-
 # Presentation Outline
 [https://github.com/kvignos/wired-and-the-rest-api-presentation/blob/master/OUTLINE.md](https://github.com/kvignos/wired-and-the-rest-api-presentation/blob/master/OUTLINE.md)
 
 # The WordPress REST API in Context
+
+[https://feelingrestful.com/news/the-wordpress-rest-api-in-context/](https://feelingrestful.com/news/the-wordpress-rest-api-in-context/)
 
 It’s no surprise that WordPress is used by big web publishers: after all, publishing content is what WordPress was built for. WIRED is just one of those publishers. It’s one of the top 1000 sites on the internet, and reaches more than 28 million people every month. WIRED has been using WordPress since 2006, when editors could easily spin up new installations for different topic channels. In the end, they ended up with 35 WordPress blogs (these have recently been migrated into one instance). WordPress meets the needs of the editorial, creative, and technical staff: there’s little training needed to bring a new person on board.
 
