@@ -28,7 +28,7 @@
 
 1.  GET request to /posts/ endpoint
 
-    *  Outbrain example
+    *  Outbrain example: fallback for We Recommend
 
 ##  Downstream format is custom JSON?  [wayfinder: Custom JSON]
 
@@ -38,7 +38,7 @@
 
     *  Apple News example
 
-##  Syndicating, synchronizing, migrating?  [wayfinder: Synch]
+##  Syndicating, synchronizing, migrating?  [wayfinder: Synching]
 
 1.  Yes.  Automate it.
 
