@@ -2,6 +2,12 @@
 
 ## Intro - WIRED  [wayfinder: Intro]
 
+1.  Who the hell are you?
+
+    * Not among these amazing core contributors
+
+    * Here to represent the users of WP REST API
+
 1.  Around the office
 
 1.  Website graphic
